@@ -23,3 +23,8 @@ setup(
     ],
     python_requires=">=3.6",
 )
+
+install_requires=[
+    "requests>=2.28.0",
+    "numpy>=1.21.0"
+]
