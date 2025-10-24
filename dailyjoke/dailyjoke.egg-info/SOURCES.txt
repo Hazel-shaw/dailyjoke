@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+dailyjoke/Main.py
+dailyjoke/__init__.py
+dailyjoke/utils.py
+dailyjoke.egg-info/PKG-INFO
+dailyjoke.egg-info/SOURCES.txt
+dailyjoke.egg-info/dependency_links.txt
+dailyjoke.egg-info/entry_points.txt
+dailyjoke.egg-info/top_level.txt
+tests/test_utils.py
