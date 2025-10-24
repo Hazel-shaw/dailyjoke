@@ -7,7 +7,7 @@ setup(
     install_requires=[],  # 包的依赖，若有依赖可从 requirements.txt 读取，比如 `install_requires=open('requirements.txt').read().splitlines()`
     entry_points={
         "console_scripts": [
-            "dailyjoke = dailyjoke.main:main",  # 如果有可执行脚本，这里配置，格式为“命令 = 模块:函数”
+            "dailyjoke = dailyjoke.main:run",  # 如果有可执行脚本，这里配置，格式为“命令 = 模块:函数”
         ]
     },
     author="zzh",
